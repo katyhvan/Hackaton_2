@@ -164,6 +164,8 @@ function addUpdateEvent() {
 }
 
 closeModalBtn.addEventListener("click", () => {
+  addStudentBtn.setAttribute("style", "display: block;");
+  saveBtn.setAttribute("style", "display: none;");
   firstNameInp.value = "";
   lastNameInp.value = "";
   phoneNumberInp.value = "";
