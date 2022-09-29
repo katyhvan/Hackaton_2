@@ -1,0 +1,13 @@
+.list-title {
+  margin-top: 2%;
+}
+
+.students-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.list-title {
+  text-align: center !important;
+}

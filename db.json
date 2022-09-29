@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "id": 3,
+      "firstName": "Jack upd",
+      "lastName": "Black",
+      "number": "456789",
+      "weeksKPI": "85",
+      "monthKPI": "75"
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Hardy",
+      "number": "457799",
+      "weeksKPI": "89",
+      "monthKPI": "84",
+      "id": 4
+    },
+    {
+      "firstName": "Helen",
+      "lastName": "Summer",
+      "number": "478923",
+      "weeksKPI": "88",
+      "monthKPI": "80",
+      "id": 5
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Forest",
+      "number": "456789",
+      "weeksKPI": "56",
+      "monthKPI": "50",
+      "id": 6
+    },
+    {
+      "firstName": "Jessica",
+      "lastName": "Land",
+      "number": "255466",
+      "weeksKPI": "45",
+      "monthKPI": "42",
+      "id": 7
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Night",
+      "number": "64688",
+      "weeksKPI": "123",
+      "monthKPI": "100",
+      "id": 8
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Evans",
+      "number": "46787892",
+      "weeksKPI": "155",
+      "monthKPI": "105",
+      "id": 9
+    },
+    {
+      "firstName": "Sandra Test",
+      "lastName": "Bullock ",
+      "number": "568789",
+      "weeksKPI": "100",
+      "monthKPI": "8",
+      "id": 10
+    }
+  ]
+}
